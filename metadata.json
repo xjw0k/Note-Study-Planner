@@ -1,0 +1,6 @@
+{
+  "name": "노트 스터디 플래너",
+  "description": "Notion 스타일의 스터디 플래너 — 캘린더 자동 저장, D-Day 카운트다운, 학교 시간표·시험·수행평가·과제 및 시험공부·독서·기타 공부 일정 관리",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
